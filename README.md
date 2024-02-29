@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piksami
 - 👀 I’m interested in programing + gaming
 - 🌱 I’m currently learning python
-- 📫 How to reach me my discord ()
+- 📫 How to reach me my discord (piksami)
 - 😄 Pronouns: he/him
 
 <!---
